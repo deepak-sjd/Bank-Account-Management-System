@@ -31,7 +31,7 @@ A desktop banking application built using **Java Swing**, **AWT**, **JDBC**, and
 
 ## 📂 Project Structure
 
-- **Project Structure:** ![Project Structure](outputs/projectStructure.png)  
+ ![Project Structure](outputs/projectStructure.png)  
 ---
 
 ## 🖼 UI Screenshots (stored in `/outputs`)
